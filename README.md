@@ -1,7 +1,7 @@
-#Profile Rest API
+# Profile Rest API
 Backend REST API with Python and Django REST framework.
 
-##Technologies
+## Technologies
 The project is created with:
 *Vagrant
 *VirtualBox
